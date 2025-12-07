@@ -1,0 +1,27 @@
+## pretrained vs clean in microsoft dataset
+pesq_wb = 2.975, pesq_nb = 3.347, stoi = 0.963, 
+
+## noisy vs clean in microsoft dataset
+pesq_wb = 1.631, pesq_nb = 2.162, stoi = 0.903, 
+
+pesq_nb 1-4.5
+## 10k vs clean in microsoft dataset
+pesq_wb = 1.916, pesq_nb = 2.462, stoi = 0.919
+
+## 50k vs clean in microsoft dataset
+pesq_wb = 2.871, pesq_nb = 3.255, stoi = 0.959, 
+
+## 100k vs clean in microsoft dataset
+pesq_wb = 3.065, pesq_nb = 3.428, stoi = 0.966, 
+
+## 150k vs clean in microsoft dataset
+pesq_wb = 3.157, pesq_nb = 3.501, stoi = 0.969, 
+
+## 200k vs clean in microsoft dataset
+pesq_wb = 3.192, pesq_nb = 3.529, stoi = 0.970, 
+
+## 250k vs clean in microsoft dataset
+pesq_wb = 3.193, pesq_nb = 3.528, stoi = 0.971,
+
+## 150k vs clean in urban dataset
+pesq_wb = 3.408, pesq_nb = 3.572, stoi = 0.787, 
